@@ -1,4 +1,3 @@
-# Advent Of Code Question
+# Advent Of Code Questions
 
-## Description
 This repository was created with the intent to organize the solutions I coded to solve question from the Advent of Code platform. You can find them by year and number
