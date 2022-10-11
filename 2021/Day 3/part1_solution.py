@@ -4,7 +4,7 @@ bin_zeros = None
 gamma = ''
 epsilon = ''
 
-with open("2021/Question 3/input_data.txt",'r') as input_data:
+with open("2021/Day 3/input_data.txt",'r') as input_data:
     for line in input_data:
         if bin_ones is None:
             bin_ones = [0] * len(line)

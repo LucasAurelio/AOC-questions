@@ -2,7 +2,7 @@ number_increases = 0
 latest_sum = None
 measurements = []
 
-with open("2021/Question 1/input_data.txt",'r') as input_data:
+with open("2021/Day 1/input_data.txt",'r') as input_data:
     for line in input_data:
             measurements.append(int(line))
             if len(measurements)==3:

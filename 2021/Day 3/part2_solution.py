@@ -37,7 +37,7 @@ def find_least(currentList,currentIndex):
         return '0'
 
 
-with open("2021/Question 3/input_data.txt",'r') as input_data:
+with open("2021/Day 3/input_data.txt",'r') as input_data:
     for line in input_data:
         oxygen_generator.append(line)
         co2_scrubber.append(line)
