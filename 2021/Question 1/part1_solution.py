@@ -1,5 +1,3 @@
-
-
 number_increases = 0
 measurement = None
 

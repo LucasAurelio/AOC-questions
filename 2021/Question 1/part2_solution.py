@@ -1,7 +1,3 @@
-
-from types import new_class
-
-
 number_increases = 0
 latest_sum = None
 measurements = []
